@@ -1,0 +1,23 @@
+export const nameBand = 'HOMBRES G';
+export const nameSongs = [
+	"ELLA SE FUE CON UN NIÑO PIJO", /*1*/
+	"TEMBLANDO", /*2*/
+	"EL ATAQUE DE LAS CHICAS COCODRILO", /*3*/
+	"DEVUELVEME A MI CHICA", /*4*/
+	"TE QUIERO", /*5*/
+	"VENEZIA", /*6*/
+	"MARTA TIENE UN MARCAPASOS", /*7*/
+	"LO NOTO", /*8*/
+	"UN PAR DE PALABRAS", /*9*/
+	"TE NECESITO", /*10*/
+	"CHICO TIENES QUE CUIDARTE", /*11*/
+	"NO LLORARÉ", /*12*/
+	"VOY A PASARMELO BIEN", /*13*/
+	"VISITE NUESTRO BAR", /*14*/
+	"SUÉLTATE EL PELO", /*15*/
+	"EN MI COCHE", /*16*/
+	"QUE SOY YO PARA TI", /*17*/
+	"QUE SOY YO PARA TI", /*18*/
+	"HACE UN AÑO", /*19*/
+	"INDIANA", /*20*/
+]
